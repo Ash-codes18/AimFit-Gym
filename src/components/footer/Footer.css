@@ -6,6 +6,10 @@
     border: 1px solid var(--lightgray);
 }
 
+.logoimg{
+    filter: invert(1);
+}
+
 .footer {
     display: flex;
     align-items: center;
