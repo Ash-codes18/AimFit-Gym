@@ -11,7 +11,7 @@ const Footer = () => {
         <hr/>
         <div className="footer">
             <div className="social-links">
-                <img src={Github} alt=""/>
+                <img src={Github} alt="github" href="https://github.com/ash-codes18"/>
                 <img src={Instagram} alt=""/>
                 <img src={LinkedIn} alt=""/>
             </div>

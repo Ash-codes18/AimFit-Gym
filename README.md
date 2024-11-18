@@ -50,6 +50,6 @@ https://aimfit.pages.dev
 ~ npm run client
 ~ npm run server
 ~ npm run build
-~ npm run dev
+~ npm run deva
 ~ npm start
 ```

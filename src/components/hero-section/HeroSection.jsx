@@ -54,12 +54,7 @@ const HeroSection = () => {
                         </span>
                         <span>expert coachs</span>
                     </div>
-                    <div><NumberCounter 
-                                end={978} 
-                                start={800} 
-                                delay="4"
-                                preFix="+" 
-                            />
+                    <div>
                         <span>
                             <NumberCounter 
                                 end={978} 
